@@ -1,0 +1,12 @@
+<problem title="Embedded Code Box" markdown="null">
+  <text>Blabla</text>
+  <coderesponse>
+    <textbox rows="10" cols="70" mode="python" tabsize="4"/>
+    <codeparam>
+      <initial_display/>
+      <answer_display>the definitive answer</answer_display>
+      <grader_payload>{"grader": "graders/sample_grader.py"}</grader_payload>
+    </codeparam>
+  </coderesponse>
+</problem>
+
